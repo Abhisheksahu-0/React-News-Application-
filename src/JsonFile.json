@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn-es",
+          "name": "CNN Spanish"
+        },
+        "author": "Belén Liotti",
+        "title": "Muere pareja italiana de esquiadores expertos tras caer 700 metros de una montaña; rescatistas hallaron sus cuerpos juntos",
+        "description": "El esquiador de velocidad italiano Jean Daniel Pession y su novia, Elisa Arlian, fallecieron en un accidente de montaña en el noroeste de Italia, confirmó la Federación Italiana de Deportes de Invierno.",
+        "url": "https://cnnespanol.cnn.com/2024/06/05/esquiador-italiano-muere-accidente-montana-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/414481795-865423358924187-6746249754855466738-n.webp",
+        "publishedAt": "2024-06-06T01:50:53Z",
+        "content": "(CNN) -- El esquiador de velocidad italiano Jean Daniel Pession y su novia, Elisa Arlian, fallecieron en un accidente de montaña en el noroeste de Italia, confirmó la Federación Italiana de Deportes … [+1800 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Alexis Simmerman",
+        "title": "'My heart stopped': Watch as giraffe picks up Texas toddler during trip to wildlife center",
+        "description": "Video captures a Texas mother's panic when a giraffe accidentally grabs toddler's shirt, lifts her from truck bed at Fossil Rim Wildlife Center.",
+        "url": "https://www.usatoday.com/story/news/nation/2024/06/05/giraffe-picks-up-toddler-texas-video/73992263007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/images/10BEST/2023/03/27/USAT/70054659007-10BEST-401809-Fossil-Rim-Wildlife-Center.jpeg?crop=990,557,x0,y52&width=990&height=557&format=pjpg&auto=webp",
+        "publishedAt": "2024-06-06T00:22:56+00:00",
+        "content": "A Texas family had quite the scare at the Fossil Rim Wildlife Center on Saturday, when a giraffe picked up a toddler.\r\nThe Toten family says they were feeding a giraffe from the bed of their pickup t… [+1793 chars]"
+      },
+      {
+        "source": {
+          "id": "la-gaceta",
+          "name": "La Gaceta"
+        },
+        "author": "La Gaceta",
+        "title": "Guardia del Padilla: dolor, angustia y esperanzas",
+        "description": "Una cobertura especial de Panorama Tucumano, de LG Play, muestra cómo se atraviesan los momentos difíciles cuando ingresan pacientes heridos o accidentados al hospital. Testimonios que conmueven.",
+        "url": "https://www.lagaceta.com.ar/nota/1017998/lg-play/guardia-padilla-dolor-angustia-esperanzas.html",
+        "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2023/12/20/1017998_202312191806460000001.jpg",
+        "publishedAt": "2023-12-20T04:07:16.7450292Z",
+        "content": "La guardia de un hospital está llena de emociones encontradas, que se suceden vertiginosamente según la evolución de los pacientes, tanto en el corazón de los familiares como de los médicos. LG Play … [+4200 chars]"
+      }
+    ]
+  }
