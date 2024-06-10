@@ -1,10 +1,12 @@
 import React from 'react'
 import loading from './loading.gif'
 
-export default function Spinner() {
+const Spinner = () =>{
   return (
     <div className='text-center'>
       <img src={loading} alt="not found" />
     </div>
   )
 }
+
+export default Spinner
